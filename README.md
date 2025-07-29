@@ -40,6 +40,5 @@ It is designed for **students, professionals, and anyone** who needs a simple ta
 
 ---
 
-## 📂 Project Structure
 
 
